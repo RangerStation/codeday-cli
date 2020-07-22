@@ -1,3 +1,5 @@
+mod string_reverser;
+
 use structopt::StructOpt;
 
 fn main() {
